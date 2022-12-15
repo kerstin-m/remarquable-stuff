@@ -1,1 +1,1 @@
-Liste aller HTML Attribute: https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
+- Liste aller HTML Attribute: https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
