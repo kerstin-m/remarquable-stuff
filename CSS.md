@@ -1,0 +1,1 @@
+- Farbpalette: https://htmlcolorcodes.com/color-names/
