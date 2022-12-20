@@ -1,2 +1,3 @@
 - Farbpalette: https://htmlcolorcodes.com/color-names/
 - Pseudo-Klassen: https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes?retiredLocale=de
+- Pseudo-Elemente: https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements
