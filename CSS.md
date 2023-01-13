@@ -3,3 +3,4 @@
 - Pseudo-Elemente: https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements
 - Wertigkeit Selektoren: https://specificity.keegan.st/
 - Codepen position absolute: https://codepen.io/codingbootcampseu/pen/rNzeyoZ
+- positioning: https://ishadeed.com/article/learn-css-positioning/#intro
