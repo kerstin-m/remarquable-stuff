@@ -5,3 +5,5 @@
 - Wertigkeit Selektoren: https://specificity.keegan.st/
 - Codepen position absolute: https://codepen.io/codingbootcampseu/pen/rNzeyoZ
 - positioning: https://ishadeed.com/article/learn-css-positioning/#intro
+- Farbverläufe: https://cssgradient.io/
+- Hintergründe: https://projects.verou.me/css3patterns/
