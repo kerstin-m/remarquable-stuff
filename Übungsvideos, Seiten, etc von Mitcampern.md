@@ -1,1 +1,2 @@
-CSS Positionen: https://youtube.com/watch?v=9u11eALvhhU&feature=share
+- CSS Positionen: https://youtube.com/watch?v=9u11eALvhhU&feature=share
+- Spiel zur Übung: https://www.jshero.net/koans/var2.html
